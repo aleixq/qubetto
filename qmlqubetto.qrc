@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>DeviceDiscovery.qml</file>
+        <file>ButtonDiscover.qml</file>
+        <file>Button.qml</file>
+        <file>InputBox.qml</file>
+        <file>Search.qml</file>
+        <file>images/lineedit-bg.png</file>
+        <file>images/default.png</file>
+        <file>images/clear.png</file>
+        <file>Panel.qml</file>
+        <file>DropTile.qml</file>
+        <file>DragTile.qml</file>
+        <file>colorkeys.js</file>
+        <file>DropTileFunction.qml</file>
+        <file>images/go.svg</file>
+        <file>images/fg.svg</file>
+        <file>images/rr.svg</file>
+        <file>images/ly.svg</file>
+        <file>images/bb.svg</file>
+        <file>images/fb.svg</file>
+        <file>images/gravat.svg</file>
+        <file>images/background.svg</file>
+        <file>images/gravat-send.svg</file>
+        <file>images/gravat-function.svg</file>
+        <file>images/gravat-snake.svg</file>
+        <file>qubetto.qml</file>
+    </qresource>
+</RCC>
