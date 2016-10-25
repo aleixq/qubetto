@@ -1,9 +1,8 @@
 /****************************************************************************
 **
-** Copyright (C) 2015 The Qt Company Ltd.
-** Contact: http://www.qt.io/licensing/
+** Copyright (C) Aleix Quintana Alsius
 **
-** This file is part of the examples of the QtBluetooth module.
+** This file is part of the examples of Qubetto.
 **
 ** $QT_BEGIN_LICENSE:BSD$
 ** You may use this file under the terms of the BSD license as follows:

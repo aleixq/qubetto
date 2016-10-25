@@ -1,9 +1,9 @@
 /****************************************************************************
 **
-** Copyright (C) 2013 BlackBerry Limited. All rights reserved.
-** Contact: http://www.qt.io/licensing/
 **
-** This file is part of the QtBluetooth module of the Qt Toolkit.
+** Copyright (C) Aleix Quintana Alsius
+**
+** This file is part of the examples of Qubetto.
 **
 ** $QT_BEGIN_LICENSE:BSD$
 ** You may use this file under the terms of the BSD license as follows:
